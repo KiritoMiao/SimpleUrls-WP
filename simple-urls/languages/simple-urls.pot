@@ -1,0 +1,159 @@
+# Copyright (C) 2015 Nathan Rice
+# This file is distributed under the same license as the Simple URLs package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple URLs 0.9.5\n"
+"Report-Msgid-Bugs-To: StudioPress <translations@studiopress.com>\n"
+"POT-Creation-Date: 2015-09-29 22:17:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: StudioPress <translations@studiopress.com>\n"
+"Language-Team: English <translations@studiopress.com>\n"
+"X-Generator: grunt-wp-i18n 0.4.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple URLs"
+msgstr ""
+
+#: plugin.php:35
+msgid "URL"
+msgstr ""
+
+#: plugin.php:36
+msgid "Add New"
+msgstr ""
+
+#: plugin.php:37
+msgid "Add New URL"
+msgstr ""
+
+#: plugin.php:38
+msgid "Edit"
+msgstr ""
+
+#: plugin.php:39
+msgid "Edit URL"
+msgstr ""
+
+#: plugin.php:40
+msgid "New URL"
+msgstr ""
+
+#: plugin.php:41 plugin.php:42
+msgid "View URL"
+msgstr ""
+
+#: plugin.php:43
+msgid "Search URL"
+msgstr ""
+
+#: plugin.php:44
+msgid "No URLs found"
+msgstr ""
+
+#: plugin.php:45
+msgid "No URLs found in Trash"
+msgstr ""
+
+#: plugin.php:48 plugin.php:54
+msgid "URL updated. <a href=\"%s\">View URL</a>"
+msgstr ""
+
+#: plugin.php:49
+msgid "Custom field updated."
+msgstr ""
+
+#: plugin.php:50
+msgid "Custom field deleted."
+msgstr ""
+
+#: plugin.php:51
+msgid "URL updated."
+msgstr ""
+
+#: plugin.php:53
+#. translators: %s: date and time of the revision
+msgid "Post restored to revision from %s"
+msgstr ""
+
+#: plugin.php:55
+msgid "URL saved."
+msgstr ""
+
+#: plugin.php:56
+msgid "URL submitted."
+msgstr ""
+
+#: plugin.php:57
+msgid "URL scheduled"
+msgstr ""
+
+#: plugin.php:58
+msgid "URL draft updated."
+msgstr ""
+
+#: plugin.php:83
+msgid "Title"
+msgstr ""
+
+#: plugin.php:84
+msgid "Redirect to"
+msgstr ""
+
+#: plugin.php:85
+msgid "Permalink"
+msgstr ""
+
+#: plugin.php:86
+msgid "Clicks"
+msgstr ""
+
+#: plugin.php:128
+msgid "URL Information"
+msgstr ""
+
+#: plugin.php:137
+msgid "Redirect URI"
+msgstr ""
+
+#: plugin.php:139
+msgid ""
+"This is the URL that the Redirect Link you create on this page will "
+"redirect to when accessed in a web browser."
+msgstr ""
+
+#: plugin.php:142
+msgid "This URL has been accessed %d times"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.studiopress.com/plugins/simple-urls"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Simple URLs is a complete URL management system that allows you create, "
+"manage, and track outbound links from your site by using custom post types "
+"and 301 redirects."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Nathan Rice"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.nathanrice.net/"
+msgstr ""

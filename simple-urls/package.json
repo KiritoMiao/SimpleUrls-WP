@@ -1,0 +1,37 @@
+{
+  "name": "simple-urls",
+  "description": "Development files for the Simple URLs plugin.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/copyblogger/simple-urls"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-autoprefixer": "*",
+    "grunt-checktextdomain": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-csscomb": "*",
+    "grunt-jsbeautifier": "*",
+    "grunt-jsvalidate": "*",
+    "grunt-phplint": "*",
+    "grunt-styledocco": "*",
+    "grunt-wp-i18n": "*",
+    "load-grunt-tasks": "*"
+  },
+  "plugin": {
+    "name": "Simple URLs",
+    "uri": "https://github.com/copyblogger/simple-urls",
+    "description": "Simple URLs is a complete URL management system that allows you create, manage, and track outbound links from your site by using custom post types and 301 redirects.",
+    "author": "StudioPress",
+    "authoruri": "http://www.studiopress.com/",
+    "version": "0.9.6",
+    "license": "GPL-2.0+",
+    "licenseuri": "http://www.gnu.org/licenses/gpl-2.0.html",
+    "textdomain": "simple-urls"
+  }
+}
