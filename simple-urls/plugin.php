@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Simple URLs（短链接）
-Plugin URI: http://www.studiopress.com/plugins/simple-urls
+Plugin URI: https://ixh.me/
 
-Description: Simple URLs is a complete URL management system that allows you create, manage, and track outbound links from your site by using custom post types and 301 redirects.（短链接是一个完整的链接管理器，它使用独立的类别来进行301跳转）汉化版本更新：https://ixh.me/
+Description: 短链接是一个完整的链接管理器，它使用独立的类别来进行301跳转 汉化版本更新：https://ixh.me/
 
-Author: Nathan Rice
-Author URI: http://www.nathanrice.net/
+Author: Nathan Rice(由 Kirito 创建翻译）
+Author URI: http://www.ixh.me/
 
 Version: 0.9.6
 
